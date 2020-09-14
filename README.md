@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning Blender to make models and 3D designs
 - 🌱 I’m currently learning python,Machine Learning and Artificial intellegence
-- 👯 I use  KiCad and EasyEda for desgning the Circuit Diagrams and gerber files
+- 👯 I use  KiCad and EasyEda for designing the Circuit Diagrams and gerber files
 - 🥅 I make Videos about Electronics and Embedded system projects
 - ⚡ Electronics is my passion,i does not see this as a profession
 
