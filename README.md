@@ -22,15 +22,24 @@ https://www.youtube.com/watch?v=Edwsf-8F3sI
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+-c++
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] 
+-python
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+-ml
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+-html and css
+
+-embedded c
+
+-vs code
+
+-pcb soldering, pcb etching, and pcb designing
+
+-kicad and easyeda
+
+-esp32,arduino-atmega328p, esp8266 and 8051
+
 
 
 <br />
@@ -39,8 +48,14 @@ https://www.youtube.com/watch?v=Edwsf-8F3sI
 ---
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
+- [What is the Bootloader? |How burn bootloader in AtMega328U|Step by step Procedure|Final Video](https://www.youtube.com/watch?v=mUYxL-22WbY)
+- [Real Time Subscriber Count On 8X24 Led Matrix 📱 |ESP32|Atmega328p|UART|Serial|By Abhishek Tiwari](https://www.youtube.com/watch?v=3U83FaUVJXE)
+- [Attractive Magnetic Levitation | Op-amp|Infrared Sensor | (Self Quarantine 21st Day)](https://www.youtube.com/watch?v=T2XwFD2cf_c)
+- [ESP32 Fetch Subscribers Count via Google API|Part-2| UART|Arduino |(Self Quarantine 14th Day)](https://www.youtube.com/watch?v=uymuu7OOQ08)
+- [VU Meter-7 Leds|OP-AMP|LM324|Comparator |(Self Quarantine 13th Day)](https://www.youtube.com/watch?v=2uBQqm_ge4s)
+- [Multimeter display Recycled |Kind of Reverse Engineering and Hacking in Hardware| Reuse of Display](https://www.youtube.com/watch?v=SBpWW5huhIw)
+<!-- YOUTUBE:END -->
 
 
 ➡️ [more videos...](https://www.youtube.com/c/Abhishektiwari267/videos)
@@ -50,12 +65,14 @@ https://www.youtube.com/watch?v=Edwsf-8F3sI
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. in future python codes
+2. complete project with pcb designing files
 
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
-
+  <img align="left" alt="Abhishektiwari7's Github Stats" src="https://github-readme-stats.Abhishektiwari7.vercel.app/api?username=Abhishektiwari7r&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://www.youtube.com/c/Abhishektiwari267/videos
