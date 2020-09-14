@@ -1,7 +1,7 @@
  
-### Hi there, I'm Abhishek Tiwari -I am Pursuing BTech in Electrical and Electronics Engineeringn -I am Youtuber [My Channel][website] 👋
+### Hi there, I'm Abhishek Tiwari -I am Pursuing B.Tech. in Electrical and Electronics Engineering -I am Youtuber [My Channel][website] 👋
 
-## I'm an Engineer, Content Creator, Designer, and Curious!
+## I'm an Electronics Hobbyist, Content Creator, Curious, and me!
 
 - 🔭 I’m currently learning Blender to make models and 3D designs
 - 🌱 I’m currently learning python,Machine Learning and Artificial intellegence
@@ -10,7 +10,7 @@
 - ⚡ Electronics is my passion,i does not see this as a profession
 
 ### I like it 🎧
-
+https://www.youtube.com/watch?v=Edwsf-8F3sI
 
 ### Connect with me:
 
@@ -22,18 +22,15 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [Visual Studio Code]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] [Terminal-Fedora]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] [GitHUb]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] [HTML]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />] [CSS]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />] [Python]
-[C/C++]
-[Embedded C]
-[HTML And CSS]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 
 
 <br />
