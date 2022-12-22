@@ -8,8 +8,7 @@
 - 👯 I use  KiCad and EasyEda for designing the Circuit Diagrams and gerber files
 - 🥅 I make Videos about Electronics and Embedded system projects
 - ⚡ Electronics is my passion,i does not see this as a profession
-- 🏄 Most Passionate Project of mine  - [Display Module and Driver][https://github.com/Abhishektiwari7/lcd_nokia_105_drivers]
--  [Demo Video] [https://youtu.be/qkQUOqdAG5Y]
+- 🏄 Most Passionate Project of mine  - 💾[Display Module and Driver][websiteg] 🎬 [Demo Video][websitev]
 # 💫 About Me:
 Hi, I am an Electrical and Electronic Engineer. Apart from logical and critical thinking, this is what I want since my childhood.i passionate about electronics and electrical stuff. When I have to choose what I want to be in future no doubts I pursue my dream.its a kind of hunger that,s never stops or even slows down a bit .to maintain self-integrity I create my youtube channel on which I upload videos about magic. magic means to be those things which seem to be very far until you did it. I uploaded 20+ Project videos on YouTube. I am a self-learner person. Any skills I acquired through my hunger in electronics and electrical engineering. On the youtube channel, I explain how anyone can do what I do from scratch without depending on someone. In this process, I learned many things that would be useful in future assignments. My ultimate goal is to do work what I like to do, my quote is "Being Hungry".<br>(PROJECT CAN SEE SEEN ON THIS https://www.youtube.com/c/Abhishektiwari267/videos)<br><br>Soft Skills are: I am Good Learner, Innovative, Passionate about Electronics, I have a positive attitude, and committed to my work.<br><br>Technical Skills : <br>PCB Designing: Eagle, EasyEda, KiCad, and Fritzing, Experience in PCB Etching on Copper clade Board.<br>Programming Languages: C/C++,Python,HTML and CSS.<br>IDE: Arduino Ide, Visual Studio Code, and GIT.<br>Microcontroller : ESP32,ESP8266,ATmega328p and 8051.<br>Module: WIFI, Bluetooth, PIR Sensor, RF Module, Current Sensor, Ultrasound module and hall sensor<br>Testing Equipements: Digital Multimeter, Digital storage oscilloscope, Logic Analyzer 8 channel, Programmable Electronic Load and Lab Bench Power Supply<br>Industrial Skills: MATLAB, PLC and SCADA
 
@@ -50,3 +49,5 @@ Hi, I am an Electrical and Electronic Engineer. Apart from logical and critical 
 ➡️ [more videos...](https://www.youtube.com/c/Abhishektiwari267/videos)
 
 [website]: https://www.youtube.com/c/Abhishektiwari267/videos
+[websitev]: https://youtu.be/qkQUOqdAG5Y
+[websiteg]: https://github.com/Abhishektiwari7/lcd_nokia_105_drivers
